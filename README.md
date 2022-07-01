@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryukya
 - 👀 I’m interested in data analysis but also web and app development
 - 🌱 I’m currently learning java scripts
-- 💞️ I’m looking to collaborate on ...(notthing for now)
+- 💞️ I’m looking to collaborate on CatSitting App
 - 📫 How to reach me :felisiaryukiya@gmail.com
 
 <!---
